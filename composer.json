@@ -1,0 +1,12 @@
+{
+    "name": "administrator/xiaohigh2",
+    "authors": [
+        {
+            "name": "duoduo",
+            "email": "duoduo@itxdl.cn"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
