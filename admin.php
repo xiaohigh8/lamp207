@@ -1,7 +1,6 @@
 <?php
 	echo 'admin page';
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
